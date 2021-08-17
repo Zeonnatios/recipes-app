@@ -1,5 +1,6 @@
 {
-  "name": "recipes-app-test",
+  "homepage": "http://Zeonnatios.github.io/recipes-app",
+  "name": "recipes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
