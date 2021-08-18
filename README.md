@@ -31,7 +31,6 @@ Este projeto aborda o desenvolvimento de um aplicativo de receitas, o qual será
 
 - [Meals](https://www.themealdb.com/api.php)
 - [Cocktails](https://www.thecocktaildb.com/api.php)
-- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
 <h2>:hammer_and_wrench: Features</h2>
 
