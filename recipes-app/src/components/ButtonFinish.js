@@ -5,7 +5,7 @@ import { addRecipeIsDone } from '../functions';
 
 function ButtonFinish() {
   const { ingredientsListRecipe, task, enableFinish,
-    setEnableFinish, recipeDetail: recipe } = useContext(RecipesContext);
+    setEnableFinish, recipeDetail: recipe, setTask } = useContext(RecipesContext);
   const history = useHistory();
   const url = history.location.pathname;
   const { id } = useParams();
@@ -34,6 +34,7 @@ function ButtonFinish() {
 
   const finish = () => {
     addRecipeIsDone(recipe, url);
+    setTask({});
     history.push('/receitas-feitas');
   };
 

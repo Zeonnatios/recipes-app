@@ -8,8 +8,11 @@ import blackHeartIcon from '../images/blackHeartIcon.svg';
 function DoneFavRecipesCard({ recipe, index, done, fav, removeFromFavorites }) {
   const [isCopied, setIsCopied] = useState(false);
 
+  const { href } = window.location;
+  const hrefReplaced = href.replace('receitas-feitas', '');
+
   const copyToClipboard = ({ id, type }) => {
-    const url = `http://localhost:3000/${type}s/${id}`;
+    const url = `${hrefReplaced}${type}s/${id}`;
     // funcao que copia URL utilizando biblioteca clipboard-copy ainda em teste
     copy(url);
     setIsCopied(true);
