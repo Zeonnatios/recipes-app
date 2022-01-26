@@ -4,6 +4,8 @@
 Esse projeto foi o último projeto desenvolvido em grupo durante o curso da Trybe no módulo de Front-end, utilizando
  <a href="https://pt-br.reactjs.org/"> React</a>, <a href="https://pt-br.reactjs.org/docs/context.html">Context API</a> e Hooks <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"></a></p>
  
+<p>Para acessar visualizar a aplicação funcionando, acesse <a href="https://zeonnatios.github.io/recipes-app/#/">clique aqui ;)</a></p>
+ 
  <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
