@@ -2,9 +2,9 @@
 
 <p align="center">Olá, seja bem vindo(a) ao projeto Recipes-App. <br>
 Esse projeto foi o último projeto desenvolvido em grupo durante o curso da Trybe no módulo de Front-end, utilizando
- <a href="https://pt-br.reactjs.org/"> React</a>, <a href="https://pt-br.reactjs.org/docs/context.html">Context API</a> e Hooks <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"></a></p>
+ <a href="https://pt-br.reactjs.org/" target="_blank"> React</a>, <a href="https://pt-br.reactjs.org/docs/context.html" target="_blank">Context API</a> e Hooks <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" target="_blank"></a></p>
  
-<p>Para acessar visualizar a aplicação funcionando, acesse <a href="https://zeonnatios.github.io/recipes-app/#/">clique aqui ;)</a></p>
+<p>Para acessar visualizar a aplicação funcionando, acesse <a href="https://zeonnatios.github.io/recipes-app/#/" target="_blank">clique aqui ;)</a></p>
  
  <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
